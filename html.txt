@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset=”utf-8″>
+
+<title>Всем привет!Меня зовут Вита, в этой блоге я хочу рассказать о себе и своем коте.</title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
